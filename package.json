@@ -1,0 +1,23 @@
+{
+  "name": "di-workshop-11-hotel-app",
+  "version": "1.0.0",
+  "description": "Hotel Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizwansharif12/di-workshop-11-hotel-app.git"
+  },
+  "author": "Rizwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizwansharif12/di-workshop-11-hotel-app/issues"
+  },
+  "homepage": "https://github.com/rizwansharif12/di-workshop-11-hotel-app#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
